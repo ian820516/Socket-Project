@@ -1,3 +1,3 @@
-# Socket-Progect-EE450-
+# Socket-Project-
 
 This is a socket project from class
