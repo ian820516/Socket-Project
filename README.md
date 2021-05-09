@@ -5,7 +5,7 @@ This is a socket project from class.
 How to run:
 1. make file
 2. open five terminals
-3. create a map file call "map.txt"(see map_simple.txt, map_)
+3. create a map file call "map.txt"(see map_simple.txt, map_hard.txt)
 5. run the program in below order
 6. run ./scheduler first 
 7. run ./hospitalA [location] [capacity] [occupancy]
