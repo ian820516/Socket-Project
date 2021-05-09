@@ -13,8 +13,8 @@ How to run:
 9. run ./hospitalC [location] [capacity] [occupancy]
 10. run ./client [location]
 
-Example with TestCase: "map_simple.txt"
-Console output of Scheduler: 
+Example with TestCase: "map_simple.txt"  
+Console output of Scheduler:   
 
 ./scheduler
 The Scheduler is up and running.
