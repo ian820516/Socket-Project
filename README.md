@@ -1,6 +1,6 @@
 # Socket-Project-
 
-This is a socket project from class
+This is a socket project from class.
 How to run:
 1. make file
 2. open five terminals
