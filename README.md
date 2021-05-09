@@ -14,9 +14,9 @@ How to run:
 10. run ./client [location]
 
 EXAMPLE:
-TestCase: "map_simple.txt"
-Console output of Scheduler: 
-./scheduler
+ TestCase: "map_simple.txt"
+ Console output of Scheduler: 
+ ./scheduler
 The Scheduler is up and running.
 The Scheduler has received information from Hospital A: total capacity is 10 and initial occupancy is 8
 The Scheduler has received information from Hospital B: total capacity is 8 and initial occupancy is 5
